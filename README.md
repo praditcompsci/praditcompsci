@@ -1,13 +1,13 @@
 # 👋 Welcome to My GitHub!
 
-Hi there! I'm **Pradit**, and this is my private GitHub repository where I store and manage all of my project work. My expertise spans across **PHP, JavaScript, Vue.js**, and various technologies related to **API integrations, database management**, and **front-end development**.
+Hi there! I'm **Thanaris Thananithidechanan**, and this is my private GitHub repository where I store and manage all of my project work. My expertise spans across **PHP, JavaScript, Laravel, Vue.js, Nuxt.js, Express.js**, and various technologies related to **API integrations, database management**, and **front-end development**.
 
 ## 🚀 About My Projects
 
 Here, you'll find a range of projects covering:
 
 - **Web Development:**  
-  Building dynamic web applications using PHP and JavaScript.  
+  Building dynamic web applications using Vue.js and Express.js.  
 - **API Integrations:**  
   Connecting and interacting with external systems, including Microsoft D365.  
 - **OCR & Image Processing:**  
@@ -20,8 +20,8 @@ Here, you'll find a range of projects covering:
 ## 🛠️ Technologies Used
 
 - **Languages:** PHP, JavaScript, SQL  
-- **Frameworks & Tools:** Vue.js, OpenCV, Tesseract, XAMPP, Apache  
-- **Database:** Microsoft SQL Server  
+- **Frameworks & Tools:** Vue.js, Nuxt.js, Laravel, OpenCV, Tesseract, XAMPP, Apache  
+- **Database:** Microsoft SQL Server, MySQL  
 - **Version Control:** GitHub  
 
 ## 📈 Future Plans
